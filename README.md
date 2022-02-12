@@ -1,4 +1,4 @@
-# Guideslines for blogs
+# Guidelines for blogs
 
 The goal of the OpenHW Group blog program is to provide a singular place for quality content, hosted on the OpenHW Group website. The blog serves as a channel for the OpenHW Group members and working groups to share content with the OpenHW ecosystem.
 
