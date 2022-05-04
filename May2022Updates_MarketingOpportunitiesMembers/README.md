@@ -38,19 +38,14 @@ Social Media through OpenHW Group:
 
 As a member you can reach out to our followers on the OpenHW social platforms – Linked-in and Twitter. 
 
-    Social guidelines can be found here: https://docs.google.com/document/d/1aDZdib4jO923T5rcgWvsd-EL35i2nrBgBPmc31zm0e4/edit?usp=sharing 
+Social guidelines can be found [here](https://docs.google.com/document/d/1aDZdib4jO923T5rcgWvsd-EL35i2nrBgBPmc31zm0e4/edit?usp=sharing).
 
- 
+Social media [form for submissions](https://docs.google.com/forms/d/1W_i--1ZflVGAqtAsroONGbl79gRbeHHTaza09n9tla0/edit) Submit your social media for posting one week prior to selected posting date.  
 
-    Social media form for submissions: https://docs.google.com/forms/d/1W_i--1ZflVGAqtAsroONGbl79gRbeHHTaza09n9tla0/edit Submit your social media for posting one week prior to selected posting date.  
-
- 
-
-    When posting on social regarding current OpenHW Group projects or related topics please use the following:
-
+When posting on social regarding current OpenHW Group projects or related topics please use the following:
+```
 @openhwgroup; @riscv; #opensource; #corev; #openhwgroup
-
- 
+```
 
 Follow us on Linked-in: https://www.linkedin.com/company/openhwgroup/mycompany/
 
